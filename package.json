@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "get-contact.js": "^1.8.6",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

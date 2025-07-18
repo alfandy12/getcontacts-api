@@ -1,0 +1,15 @@
+# Folder dependensi Node.js
+node_modules
+
+# Folder untuk file yang di-upload, seperti QR code
+uploads/
+.gwebjs_auth
+# File log NPM
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+
+# File environment (jika ada)
+.env
