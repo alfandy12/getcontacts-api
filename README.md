@@ -32,7 +32,7 @@ Ikuti langkah-langkah berikut untuk menjalankan server di mesin Anda.
 1.  **Clone Repositori**
     
     ```bash
-    git clone https://github.com/devgba/getcontact-api.git
+    git clone https://github.com/alfandy12/getcontact-api.git
     ```
 
 2.  **Masuk ke Direktori Proyek**
